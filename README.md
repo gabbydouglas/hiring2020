@@ -224,7 +224,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Aon|✅|Will be remote. New start date will be June 22.|
 |Apple|✅|Starting remotely for now|
 |Ares Management|✅|Considering remote. Updates to follow.|
-|Arcadia|✅|Currently planning for in-person but considering remote. Updates to come. [Arcadia is operating as a 100% remote workforce for the time being to preserve the health and safety of our employees and larger community|] (https://www.arcadia.com/img/arcadia-virtual-interviewing-guide.pdf)
+|Arcadia|✅|Currently planning for in-person but considering remote. Updates to come. Arcadia is operating as a 100% remote workforce for the time being to preserve the health and safety of our employees and larger community.|
 |AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
 |Audible|✅|On track to begin June 1|
