@@ -16,7 +16,6 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |               Company               |                   Positions                    |
 |:-----------------------------------|:----------------------------------------------------------------------------------------|
 |Anyscale|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
-|Arcadia|<ul><li>Internship - [Chief Financial Officer, Communications Manager, Design Director, Sales Operations Analyst, Senior DevOps Engineer, and VP, Engineering](https://grnh.se/d5dbda4c2us)</li></ul>|
 |Blend|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Cloudflare|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Cress Health|<ul><li>Internship (**UNPAID**) - [Software Engineering, Product Management, Security, and Design Internships](https://internships.cresshealth.com)</li></ul>|
